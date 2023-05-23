@@ -73,5 +73,6 @@ Create a table, "email_backers_remaining_goal_amount" that contains the email ad
 https://www.geeksforgeeks.org/split-a-text-column-into-two-columns-in-pandas-dataframe/
 https://courses.bootcampspot.com/courses/2957/pages/8-dot-4-1-introduction-to-regular-expressions?module_item_id=870124
 https://courses.bootcampspot.com/courses/2957/pages/8-dot-5-2-create-an-entity-relationship-diagram?module_item_id=870132
+https://learnsql.com/blog/difference-between-two-rows-in-sql/
 
 
