@@ -13,5 +13,10 @@ Independent Funding has received a new dataset that contains information on the 
 ## Deliverable 2: Transform and Clean Data
 
 ## Deliverable 3: Create an ERD and Table Schema
+### ERD
+Added in the backers info onto our original crowdfunding ERD
+![crowdfunding_db_relationships](https://github.com/Jall3n/Module8_ETL-Crowdfunding/assets/119149740/d9ffff34-848c-4826-ab66-0d32cd3f23d8)
+
+
 
 ## Deliverable 4: SQL Analysis
